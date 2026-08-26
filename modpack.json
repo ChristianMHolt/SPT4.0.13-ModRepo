@@ -3,7 +3,7 @@
   "name": "SPT 4.0.13 Fika Modpack",
   "sptVersion": "4.0.13",
   "remoteManifestUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/modpack.json",
-  "generatedAt": "2026-08-26T15:44:32Z",
+  "generatedAt": "2026-08-26T17:02:53Z",
   "mods": [
     {
       "name": "ArmorClassIcon",
@@ -1090,6 +1090,20 @@
       "downloadUrl": "https://sp-mod.com/mod/download/1453/make-shotguns-great-again/1.14.0",
       "forgeVersion": "1.14.0",
       "contentLength": 49722097
+    },
+    {
+      "name": "WTT Artem",
+      "version": "3.0.1",
+      "file": "WTT-.Artem3.0.1.7z",
+      "sha256": "355ddd80c6ad834b3c3b14e8481ef589471174ae6a80885dadf7e1887e144ec1",
+      "strip": null,
+      "source": "forge",
+      "forgeId": 1023,
+      "forgeSlug": "wtt-artem",
+      "guid": "com.crackbone.artem-wtt",
+      "downloadUrl": "https://sp-mod.com/mod/download/1023/wtt-artem/3.0.1",
+      "forgeVersion": "3.0.1",
+      "contentLength": 1625034880
     }
   ],
   "removed": [
