@@ -3,7 +3,7 @@
   "name": "SPT 4.0.13 Fika Modpack",
   "sptVersion": "4.0.13",
   "remoteManifestUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/modpack.json",
-  "generatedAt": "2026-08-25T20:08:24Z",
+  "generatedAt": "2026-08-26T15:44:32Z",
   "mods": [
     {
       "name": "ArmorClassIcon",
@@ -560,18 +560,18 @@
       "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/Oryzaki-LootValueNP-1.0.0.zip"
     },
     {
-      "name": "Painter",
-      "version": "2.0.0",
-      "file": "Painter_2.0.0.7z",
-      "sha256": "8b8637894e9ad54368e98c34a90019d2d5ff3526d2984ae3a00a3de38f19a45e",
+      "name": "Painter All in One",
+      "version": "2.0.3",
+      "file": "PainterAllInOne-2.0.3.7z",
+      "sha256": "45a7aedb6f49f48943d880936667f1f127d0c4c6b3a514fe53ef0fcf49b65cd7",
       "strip": null,
       "source": "forge",
-      "forgeId": 1025,
-      "forgeSlug": "painter",
-      "guid": "com.emilanderss0n.painter",
-      "downloadUrl": "https://sp-mod.com/mod/download/1025/painter/2.0.0",
-      "forgeVersion": "2.0.0",
-      "contentLength": 22231361
+      "forgeId": 2878,
+      "forgeSlug": "painter-all-in-one",
+      "guid": "jayoh99.painter.4.0",
+      "downloadUrl": "https://sp-mod.com/mod/download/2878/painter-all-in-one/2.0.3",
+      "forgeVersion": "2.0.3",
+      "contentLength": 1083715973
     },
     {
       "name": "Pause",
@@ -686,18 +686,18 @@
       "contentLength": 23591
     },
     {
-      "name": "Tactical Gear Component",
-      "version": "2.0.0",
-      "file": "TGC_2.0.0.7z",
-      "sha256": "f9a0c3c880d8a741af549bccec7c2679e6012d2c7382dd9294ae075b7964b018",
+      "name": "Skipper",
+      "version": "1.1.4",
+      "file": "Terkoiz-Skipper.7z",
+      "sha256": "5a4a4f495da67c3db8b28bcb54cf957b143da32ff534868abec8b5d5a92ac7e1",
       "strip": null,
       "source": "forge",
-      "forgeId": 1125,
-      "forgeSlug": "tactical-gear-component",
-      "guid": "com.emilanderss0n.tgc",
-      "downloadUrl": "https://sp-mod.com/mod/download/1125/tactical-gear-component/2.0.0",
-      "forgeVersion": "2.0.0",
-      "contentLength": 656654715
+      "forgeId": 1343,
+      "forgeSlug": "skipper",
+      "guid": "com.terkoiz.skipper",
+      "downloadUrl": "https://sp-mod.com/mod/download/1343/skipper/1.1.4",
+      "forgeVersion": "1.1.4",
+      "contentLength": 5182
     },
     {
       "name": "Black Exfil Revision",
@@ -1006,6 +1006,111 @@
       "downloadUrl": "https://sp-mod.com/mod/download/2649/climbable-ladders/1.0.2",
       "forgeVersion": "1.0.2",
       "contentLength": 942388
+    },
+    {
+      "name": "Consumables Galore",
+      "version": "2.0.0",
+      "file": "ConsumablesGalore-Ported-2.0.0.zip",
+      "sha256": "1f616acf4e856e6c5d76a2722b9ed89218ade0a2646df2995899aa25d787406b",
+      "strip": null,
+      "source": "forge",
+      "forgeId": 1237,
+      "forgeSlug": "consumables-galore",
+      "guid": "com.musicmaniac.consumablesgalore",
+      "downloadUrl": "https://sp-mod.com/mod/download/1237/consumables-galore/2.0.0",
+      "forgeVersion": "2.0.0",
+      "contentLength": 59484
+    },
+    {
+      "name": "Guiding Light",
+      "version": "1.1.3",
+      "file": "GuidingLight113.zip",
+      "sha256": "dc26b79b4930f27d9a86d467562055f03e8fa110dfd60c757ed16b5883e3530e",
+      "strip": null,
+      "source": "forge",
+      "forgeId": 1161,
+      "forgeSlug": "guiding-light-chapter-1",
+      "guid": "com.lightoftheworld.guidinglight",
+      "downloadUrl": "https://sp-mod.com/mod/download/1161/guiding-light-chapter-1/1.1.3",
+      "forgeVersion": "1.1.3",
+      "contentLength": 249888429
+    },
+    {
+      "name": "Quests Extended",
+      "version": "5.0.0",
+      "file": "QuestsExtended500.zip",
+      "sha256": "2382b8268f8eaee56b7cca9112a8d4fa8e3de96cb272081829ce2acaab3cebef",
+      "strip": null,
+      "source": "forge",
+      "forgeId": 2106,
+      "forgeSlug": "completed-fika-quests-extended",
+      "guid": "com.lightoftheworld.questsextended",
+      "downloadUrl": "https://sp-mod.com/mod/download/2106/completed-fika-quests-extended/5.0.0",
+      "forgeVersion": "5.0.0",
+      "contentLength": 47764
+    },
+    {
+      "name": "Virtual's Custom Quests",
+      "version": "2.5.5",
+      "file": "VCQ2.5.5.zip",
+      "sha256": "6c816fe01ae3a73ce17ceac58d0c2db51d5c9caad97e54c40ea20db846a0cb28",
+      "strip": null,
+      "source": "forge",
+      "forgeId": 2093,
+      "forgeSlug": "virtuals-custom-quests-updated",
+      "guid": "com.colo.vcq",
+      "downloadUrl": "https://sp-mod.com/mod/download/2093/virtuals-custom-quests-updated/2.5.5",
+      "forgeVersion": "2.5.5",
+      "contentLength": 187942
+    },
+    {
+      "name": "Acid's Bot Placement System",
+      "version": "2.0.19",
+      "file": "acidphantasm-botplacementsystem-2.0.19.7z",
+      "sha256": "967e075d9d07ab130a56c2c16e97e4a92d082ad14076f2619a9a6f2ea3aa5c6a",
+      "strip": null,
+      "source": "forge",
+      "forgeId": 2097,
+      "forgeSlug": "abps-acids-bot-placement-system",
+      "guid": "com.acidphantasm.botplacementsystem",
+      "downloadUrl": "https://sp-mod.com/mod/download/2097/abps-acids-bot-placement-system/2.0.19",
+      "forgeVersion": "2.0.19",
+      "contentLength": 903224
+    },
+    {
+      "name": "Make Shotguns Great Again",
+      "version": "1.14.0",
+      "file": "makeshotgunsgreatagain1.14.0.zip",
+      "sha256": "635f4286f93d83a45577480dcf46f6aeb7756b077053d4cf090588d29a914d96",
+      "strip": null,
+      "source": "forge",
+      "forgeId": 1453,
+      "forgeSlug": "make-shotguns-great-again",
+      "guid": "com.vinihns.makeshotgunsgreatagain",
+      "downloadUrl": "https://sp-mod.com/mod/download/1453/make-shotguns-great-again/1.14.0",
+      "forgeVersion": "1.14.0",
+      "contentLength": 49722097
+    }
+  ],
+  "removed": [
+    {
+      "name": "Painter (old)",
+      "folders": [
+        "SPT/user/mods/Painter-4.0"
+      ]
+    },
+    {
+      "name": "Tactical Gear Component",
+      "folders": [
+        "SPT/user/mods/TGC-NG"
+      ]
+    },
+    {
+      "name": "Beefibulator",
+      "folders": [
+        "BepInEx/plugins/Beefibulator",
+        "SPT/user/mods/Beefibulator"
+      ]
     }
   ]
 }
