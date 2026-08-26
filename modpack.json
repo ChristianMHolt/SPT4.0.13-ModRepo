@@ -3,7 +3,7 @@
   "name": "SPT 4.0.13 Fika Modpack",
   "sptVersion": "4.0.13",
   "remoteManifestUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/modpack.json",
-  "generatedAt": "2026-08-26T19:17:56Z",
+  "generatedAt": "2026-08-26T23:37:37Z",
   "mods": [
     {
       "name": "ArmorClassIcon",
@@ -1146,6 +1146,20 @@
       "downloadUrl": "https://sp-mod.com/mod/download/2399/inventory-organizing-features-ported-to-40x/1.5.1",
       "forgeVersion": "1.5.1",
       "contentLength": 21866
+    },
+    {
+      "name": "UI Fixes",
+      "version": "5.3.11",
+      "file": "Tyfon-UIFixes-5.3.11.zip",
+      "sha256": "031c293ab00b4de416257058c420b0e8f685ba1e341e84e7b03f4ee4ec7f8ce5",
+      "strip": null,
+      "source": "forge",
+      "forgeId": 1342,
+      "forgeSlug": "ui-fixes",
+      "guid": "com.tyfon.uifixes",
+      "downloadUrl": "https://sp-mod.com/mod/download/1342/ui-fixes/5.3.11",
+      "forgeVersion": "5.3.11",
+      "contentLength": 191499
     }
   ],
   "removed": [
