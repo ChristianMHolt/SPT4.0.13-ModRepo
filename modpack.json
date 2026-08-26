@@ -3,7 +3,7 @@
   "name": "SPT 4.0.13 Fika Modpack",
   "sptVersion": "4.0.13",
   "remoteManifestUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/modpack.json",
-  "generatedAt": "2026-08-26T17:02:53Z",
+  "generatedAt": "2026-08-26T19:17:56Z",
   "mods": [
     {
       "name": "ArmorClassIcon",
@@ -1104,6 +1104,48 @@
       "downloadUrl": "https://sp-mod.com/mod/download/1023/wtt-artem/3.0.1",
       "forgeVersion": "3.0.1",
       "contentLength": 1625034880
+    },
+    {
+      "name": "Live Flea Prices",
+      "version": "2.0.1",
+      "file": "DrakiaXYZ-LiveFleaPrices-2.0.1.7z",
+      "sha256": "68d657366e9a8217a8fd62d2e52e683af891c1e71a58bfaf707e761a9ed1858d",
+      "strip": null,
+      "source": "forge",
+      "forgeId": 1131,
+      "forgeSlug": "live-flea-prices",
+      "guid": "xyz.drakia.livefleaprices",
+      "downloadUrl": "https://sp-mod.com/mod/download/1131/live-flea-prices/2.0.1",
+      "forgeVersion": "2.0.1",
+      "contentLength": 9469
+    },
+    {
+      "name": "Ammo Stats",
+      "version": "4.0.1",
+      "file": "RaiRaiTheRaichu-AmmoStats-4.0.1.zip",
+      "sha256": "8596f37a6d80c3160b0a422275d90e70c95f1536889f8138e904001278ec4048",
+      "strip": null,
+      "source": "forge",
+      "forgeId": 167,
+      "forgeSlug": "ammo-stats",
+      "guid": "com.rairaitheraichu.ammostats",
+      "downloadUrl": "https://sp-mod.com/mod/download/167/ammo-stats/4.0.1",
+      "forgeVersion": "4.0.1",
+      "contentLength": 34177
+    },
+    {
+      "name": "Inventory Organizing Features",
+      "version": "1.5.1",
+      "file": "InventoryOrganizingFeatures-1.5.1.zip",
+      "sha256": "c2ffdcbc61f9aee76c5b4d38012454cb5e2ceecd1da8ec6c48d874a5ebe154f1",
+      "strip": null,
+      "source": "forge",
+      "forgeId": 2399,
+      "forgeSlug": "inventory-organizing-features-ported-to-40x",
+      "guid": "com.chouun.iof",
+      "downloadUrl": "https://sp-mod.com/mod/download/2399/inventory-organizing-features-ported-to-40x/1.5.1",
+      "forgeVersion": "1.5.1",
+      "contentLength": 21866
     }
   ],
   "removed": [
