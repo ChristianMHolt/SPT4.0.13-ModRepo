@@ -3,7 +3,7 @@
   "name": "SPT 4.0.13 Fika Modpack",
   "sptVersion": "4.0.13",
   "remoteManifestUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/modpack.json",
-  "generatedAt": "2026-08-26T23:37:37Z",
+  "generatedAt": "2026-08-27T17:48:03Z",
   "mods": [
     {
       "name": "ArmorClassIcon",
@@ -588,20 +588,6 @@
       "contentLength": 7802
     },
     {
-      "name": "Priscilu Origins",
-      "version": "6.4.0",
-      "file": "Priscilu_Origins_v2-v6.4.0.zip",
-      "sha256": "a8c9b8cca8fe32fba0a4300d7567bd4b11290db6bdd8c20217ebafd41c069ef3",
-      "strip": null,
-      "source": "forge",
-      "forgeId": 2547,
-      "forgeSlug": "the-trader-priscilu",
-      "guid": "com.priscilu.origins",
-      "downloadUrl": "https://sp-mod.com/mod/download/2547/the-trader-priscilu/6.4.0",
-      "forgeVersion": "6.4.0",
-      "contentLength": 176611
-    },
-    {
       "name": "Color Converter API",
       "version": "1.1.1",
       "file": "RaiRai.ColorConverterAPI.zip",
@@ -1160,6 +1146,29 @@
       "downloadUrl": "https://sp-mod.com/mod/download/1342/ui-fixes/5.3.11",
       "forgeVersion": "5.3.11",
       "contentLength": 191499
+    },
+    {
+      "name": "Manimal Terminal",
+      "version": "0.1.8",
+      "file": "Manimal-Terminal-0.1.8.zip",
+      "sha256": "0739ef7a6e60a561bf9fcd0b53ccf7342b4c78a6b3025b929c40163a12ff4001",
+      "strip": null,
+      "source": "github",
+      "downloadUrl": "https://pub-38fba86cac60421ebd03a218d2535c13.r2.dev/Manimal-Terminal-0.1.8.zip"
+    },
+    {
+      "name": "RUAF Come Home!",
+      "version": "1.1.2",
+      "file": "ruafcomehome-112-release.7z",
+      "sha256": "38d9df5dacd4e75b47d1ef17578c964d8d9e2e76dd6d2dd869403807406c985d",
+      "strip": null,
+      "source": "forge",
+      "forgeId": 2427,
+      "forgeSlug": "ruaf-come-home",
+      "guid": "com.ruafcomehome.tacticaltoaster",
+      "downloadUrl": "https://sp-mod.com/mod/download/2427/ruaf-come-home/1.1.2",
+      "forgeVersion": "1.1.2",
+      "contentLength": 10233498
     }
   ],
   "removed": [
@@ -1180,6 +1189,12 @@
       "folders": [
         "BepInEx/plugins/Beefibulator",
         "SPT/user/mods/Beefibulator"
+      ]
+    },
+    {
+      "name": "Priscilu Origins",
+      "folders": [
+        "SPT/user/mods/Priscilu_Origins_v2"
       ]
     }
   ]
