@@ -3,7 +3,7 @@
   "name": "SPT 4.0.13 Fika Modpack",
   "sptVersion": "4.0.13",
   "remoteManifestUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/modpack.json",
-  "generatedAt": "2026-08-27T17:48:03Z",
+  "generatedAt": "2026-08-27T20:14:52Z",
   "mods": [
     {
       "name": "ArmorClassIcon",
@@ -1148,27 +1148,13 @@
       "contentLength": 191499
     },
     {
-      "name": "Manimal Terminal",
-      "version": "0.1.8",
-      "file": "Manimal-Terminal-0.1.8.zip",
-      "sha256": "0739ef7a6e60a561bf9fcd0b53ccf7342b4c78a6b3025b929c40163a12ff4001",
-      "strip": null,
+      "name": "TheHive",
+      "version": "1.0.0",
+      "file": "TheHive1.0.0.7z",
+      "sha256": "ff8fc990aaabd3ecbf97e12499b91da5803ee6c7eba39a13fb430b5403ff1b80",
+      "strip": "TheHive1.0.0",
       "source": "github",
-      "downloadUrl": "https://pub-38fba86cac60421ebd03a218d2535c13.r2.dev/Manimal-Terminal-0.1.8.zip"
-    },
-    {
-      "name": "RUAF Come Home!",
-      "version": "1.1.2",
-      "file": "ruafcomehome-112-release.7z",
-      "sha256": "38d9df5dacd4e75b47d1ef17578c964d8d9e2e76dd6d2dd869403807406c985d",
-      "strip": null,
-      "source": "forge",
-      "forgeId": 2427,
-      "forgeSlug": "ruaf-come-home",
-      "guid": "com.ruafcomehome.tacticaltoaster",
-      "downloadUrl": "https://sp-mod.com/mod/download/2427/ruaf-come-home/1.1.2",
-      "forgeVersion": "1.1.2",
-      "contentLength": 10233498
+      "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/TheHive1.0.0.7z"
     }
   ],
   "removed": [
@@ -1195,6 +1181,22 @@
       "name": "Priscilu Origins",
       "folders": [
         "SPT/user/mods/Priscilu_Origins_v2"
+      ]
+    },
+    {
+      "name": "Manimal Terminal",
+      "folders": [
+        "BepInEx/plugins/ManimalTerminal",
+        "BepInEx/patchers/ManimalTerminalPrepatch",
+        "SPT/user/mods/ManimalTerminal"
+      ]
+    },
+    {
+      "name": "RUAF Come Home!",
+      "folders": [
+        "BepInEx/plugins/RUAFComeHome",
+        "BepInEx/patchers/RUAFComeHome.dll",
+        "SPT/user/mods/RUAFComeHomeServer"
       ]
     }
   ]
