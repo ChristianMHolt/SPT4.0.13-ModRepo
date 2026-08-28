@@ -3,7 +3,7 @@
   "name": "SPT 4.0.13 Fika Modpack",
   "sptVersion": "4.0.13",
   "remoteManifestUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/modpack.json",
-  "generatedAt": "2026-08-27T20:14:52Z",
+  "generatedAt": "2026-08-28T19:41:15Z",
   "mods": [
     {
       "name": "ArmorClassIcon",
@@ -1050,20 +1050,6 @@
       "contentLength": 187942
     },
     {
-      "name": "Acid's Bot Placement System",
-      "version": "2.0.19",
-      "file": "acidphantasm-botplacementsystem-2.0.19.7z",
-      "sha256": "967e075d9d07ab130a56c2c16e97e4a92d082ad14076f2619a9a6f2ea3aa5c6a",
-      "strip": null,
-      "source": "forge",
-      "forgeId": 2097,
-      "forgeSlug": "abps-acids-bot-placement-system",
-      "guid": "com.acidphantasm.botplacementsystem",
-      "downloadUrl": "https://sp-mod.com/mod/download/2097/abps-acids-bot-placement-system/2.0.19",
-      "forgeVersion": "2.0.19",
-      "contentLength": 903224
-    },
-    {
       "name": "Make Shotguns Great Again",
       "version": "1.14.0",
       "file": "makeshotgunsgreatagain1.14.0.zip",
@@ -1155,6 +1141,24 @@
       "strip": "TheHive1.0.0",
       "source": "github",
       "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/TheHive1.0.0.7z"
+    },
+    {
+      "name": "MOAR",
+      "version": "4.0.0",
+      "file": "MOAR4.0.13.7z",
+      "sha256": "69a30a7e00b42613797a4a3abaff376e90da0a1102bfe03d94936e1af6ef4660",
+      "strip": null,
+      "source": "github",
+      "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/MOAR4.0.13.7z"
+    },
+    {
+      "name": "Unstuck Fix",
+      "version": "1.0.0",
+      "file": "UnstuckFix.7z",
+      "sha256": "6787ee05b62a5ead2b917325338105bb3824df09084783fd5621f14391f86599",
+      "strip": null,
+      "source": "github",
+      "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/UnstuckFix.7z"
     }
   ],
   "removed": [
@@ -1197,6 +1201,13 @@
         "BepInEx/plugins/RUAFComeHome",
         "BepInEx/patchers/RUAFComeHome.dll",
         "SPT/user/mods/RUAFComeHomeServer"
+      ]
+    },
+    {
+      "name": "Acid's Bot Placement System",
+      "folders": [
+        "BepInEx/plugins/acidphantasm-botplacementsystem",
+        "SPT/user/mods/acidphantasm-botplacementsystem"
       ]
     }
   ]
