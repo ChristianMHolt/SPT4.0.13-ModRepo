@@ -3,7 +3,7 @@
   "name": "SPT 4.0.13 Fika Modpack",
   "sptVersion": "4.0.13",
   "remoteManifestUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/modpack.json",
-  "generatedAt": "2026-08-30T18:26:52Z",
+  "generatedAt": "2026-08-30T22:27:45Z",
   "mods": [
     {
       "name": "ArmorClassIcon",
@@ -1134,24 +1134,6 @@
       "contentLength": 191499
     },
     {
-      "name": "TheHive",
-      "version": "2.0.0",
-      "file": "TheHive-2.0.0.7z",
-      "sha256": "c270c49cb9295950571cdb98aceeaaa8316ce590ccd9d8ac970768149708d693",
-      "strip": null,
-      "source": "github",
-      "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/TheHive-2.0.0.7z"
-    },
-    {
-      "name": "Unstuck Fix",
-      "version": "1.0.0",
-      "file": "UnstuckFix.7z",
-      "sha256": "6787ee05b62a5ead2b917325338105bb3824df09084783fd5621f14391f86599",
-      "strip": null,
-      "source": "github",
-      "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/UnstuckFix.7z"
-    },
-    {
       "name": "Croupier",
       "version": "2.0.4",
       "file": "Croupier_2_0_4.zip",
@@ -1166,13 +1148,13 @@
       "contentLength": 21539332
     },
     {
-      "name": "SpawnDirector",
-      "version": "2.0.5",
-      "file": "SpawnDirector-SPT-4.0.13-v2.0.5.7z",
-      "sha256": "59cf9367e5b20831149e39848c88a64ef1ee9102f549aee1d2226d7608818f1b",
+      "name": "GRIDLOCK Crew Stack",
+      "version": "1.0.0",
+      "file": "GRIDLOCK-CREW-STACK-1.0.0.7z",
+      "sha256": "ea42e3800a7a27aae9bf8f19006bba61c8e64e8573a7b93b3bf281031c0a4912",
       "strip": null,
       "source": "github",
-      "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/SpawnDirector-SPT-4.0.13-v2.0.5.7z"
+      "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/GRIDLOCK-CREW-STACK-1.0.0.7z"
     }
   ],
   "removed": [
@@ -1229,6 +1211,26 @@
       "folders": [
         "BepInEx/plugins/MOAR.dll",
         "SPT/user/mods/DewardianDev-MOAR"
+      ]
+    },
+    {
+      "name": "SpawnDirector",
+      "folders": [
+        "SPT/user/mods/SpawnDirector"
+      ]
+    },
+    {
+      "name": "TheHive",
+      "folders": [
+        "BepInEx/plugins/Hive",
+        "BepInEx/patchers/HivePrepatch.dll",
+        "SPT/user/mods/HiveServer"
+      ]
+    },
+    {
+      "name": "Unstuck Fix",
+      "folders": [
+        "BepInEx/UnstickFix"
       ]
     }
   ]
