@@ -3,7 +3,7 @@
   "name": "SPT 4.0.13 Fika Modpack",
   "sptVersion": "4.0.13",
   "remoteManifestUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/modpack.json",
-  "generatedAt": "2026-08-30T18:20:20Z",
+  "generatedAt": "2026-08-30T18:26:52Z",
   "mods": [
     {
       "name": "ArmorClassIcon",
@@ -1143,15 +1143,6 @@
       "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/TheHive-2.0.0.7z"
     },
     {
-      "name": "MOAR",
-      "version": "4.0.0",
-      "file": "MOAR4.0.13.7z",
-      "sha256": "f0d770a047572b874658383951cd175bb960fd4c143c39794fe99e352c7a0cf7",
-      "strip": null,
-      "source": "github",
-      "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/MOAR4.0.13.7z"
-    },
-    {
       "name": "Unstuck Fix",
       "version": "1.0.0",
       "file": "UnstuckFix.7z",
@@ -1231,6 +1222,13 @@
       "folders": [
         "BepInEx/plugins/acidphantasm-botplacementsystem",
         "SPT/user/mods/acidphantasm-botplacementsystem"
+      ]
+    },
+    {
+      "name": "MOAR",
+      "folders": [
+        "BepInEx/plugins/MOAR.dll",
+        "SPT/user/mods/DewardianDev-MOAR"
       ]
     }
   ]
