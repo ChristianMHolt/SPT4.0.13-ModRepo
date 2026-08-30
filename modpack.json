@@ -3,7 +3,7 @@
   "name": "SPT 4.0.13 Fika Modpack",
   "sptVersion": "4.0.13",
   "remoteManifestUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/modpack.json",
-  "generatedAt": "2026-08-30T22:27:45Z",
+  "generatedAt": "2026-08-30T22:48:43Z",
   "mods": [
     {
       "name": "ArmorClassIcon",
@@ -729,17 +729,17 @@
     },
     {
       "name": "WTT Armory",
-      "version": "2.0.5",
-      "file": "WTT-Armory-2.0.5.7z",
-      "sha256": "6b481a80296fb6e9072154f837d3f8ab5f95ebca992a14c341ba4c8052b66180",
+      "version": "2.1.0",
+      "file": "WTT-Armory-2.1.0.7z",
+      "sha256": "78dff1d12636142b6ff449470efaa22df82f33acb71521e683bea0020afbea2a",
       "strip": null,
       "source": "forge",
       "forgeId": 2246,
       "forgeSlug": "wtt-armory",
       "guid": "com.wtt.armory",
-      "downloadUrl": "https://sp-mod.com/mod/download/2246/wtt-armory/2.0.5",
-      "forgeVersion": "2.0.5",
-      "contentLength": 4742653444
+      "downloadUrl": "https://sp-mod.com/mod/download/2246/wtt-armory/2.1.0",
+      "forgeVersion": "2.1.0",
+      "contentLength": 4866086744
     },
     {
       "name": "WTT CAG",
