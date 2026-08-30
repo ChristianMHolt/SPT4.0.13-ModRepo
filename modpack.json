@@ -3,7 +3,7 @@
   "name": "SPT 4.0.13 Fika Modpack",
   "sptVersion": "4.0.13",
   "remoteManifestUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/modpack.json",
-  "generatedAt": "2026-08-30T22:48:43Z",
+  "generatedAt": "2026-08-30T23:50:58Z",
   "mods": [
     {
       "name": "ArmorClassIcon",
@@ -754,6 +754,15 @@
       "downloadUrl": "https://sp-mod.com/mod/download/2875/wtt-clothing-and-gear-beta/0.1.3",
       "forgeVersion": "0.1.3",
       "contentLength": 1000158543
+    },
+    {
+      "name": "WTT CAG Fix",
+      "version": "0.1.3",
+      "file": "WTT-CAG-Fix-0.1.3.7z",
+      "sha256": "2bcfff00a4289ef4efe806b4defb795d0366bec44c872dc935483a74d4e621b6",
+      "strip": null,
+      "source": "github",
+      "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/WTT-CAG-Fix-0.1.3.7z"
     },
     {
       "name": "WTT CommonLib",
