@@ -3,7 +3,7 @@
   "name": "SPT 4.0.13 Fika Modpack",
   "sptVersion": "4.0.13",
   "remoteManifestUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/modpack.json",
-  "generatedAt": "2026-08-28T19:41:15Z",
+  "generatedAt": "2026-08-30T18:20:20Z",
   "mods": [
     {
       "name": "ArmorClassIcon",
@@ -1135,18 +1135,18 @@
     },
     {
       "name": "TheHive",
-      "version": "1.0.0",
-      "file": "TheHive1.0.0.7z",
-      "sha256": "ff8fc990aaabd3ecbf97e12499b91da5803ee6c7eba39a13fb430b5403ff1b80",
-      "strip": "TheHive1.0.0",
+      "version": "2.0.0",
+      "file": "TheHive-2.0.0.7z",
+      "sha256": "c270c49cb9295950571cdb98aceeaaa8316ce590ccd9d8ac970768149708d693",
+      "strip": null,
       "source": "github",
-      "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/TheHive1.0.0.7z"
+      "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/TheHive-2.0.0.7z"
     },
     {
       "name": "MOAR",
       "version": "4.0.0",
       "file": "MOAR4.0.13.7z",
-      "sha256": "69a30a7e00b42613797a4a3abaff376e90da0a1102bfe03d94936e1af6ef4660",
+      "sha256": "f0d770a047572b874658383951cd175bb960fd4c143c39794fe99e352c7a0cf7",
       "strip": null,
       "source": "github",
       "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/MOAR4.0.13.7z"
@@ -1159,6 +1159,29 @@
       "strip": null,
       "source": "github",
       "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/UnstuckFix.7z"
+    },
+    {
+      "name": "Croupier",
+      "version": "2.0.4",
+      "file": "Croupier_2_0_4.zip",
+      "sha256": "c4d65a38492e07cdad92ffa9f56af9aa49047e2fadefb8612edbbb5c009b0f35",
+      "strip": null,
+      "source": "forge",
+      "forgeId": 1971,
+      "forgeSlug": "croupier-loadout-generator-flea-quicksell",
+      "guid": "com.turbodestroyer.croupier",
+      "downloadUrl": "https://sp-mod.com/mod/download/1971/croupier-loadout-generator-flea-quicksell/2.0.4",
+      "forgeVersion": "2.0.4",
+      "contentLength": 21539332
+    },
+    {
+      "name": "SpawnDirector",
+      "version": "2.0.5",
+      "file": "SpawnDirector-SPT-4.0.13-v2.0.5.7z",
+      "sha256": "59cf9367e5b20831149e39848c88a64ef1ee9102f549aee1d2226d7608818f1b",
+      "strip": null,
+      "source": "github",
+      "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/SpawnDirector-SPT-4.0.13-v2.0.5.7z"
     }
   ],
   "removed": [
