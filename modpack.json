@@ -3,7 +3,7 @@
   "name": "SPT 4.0.13 Fika Modpack",
   "sptVersion": "4.0.13",
   "remoteManifestUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/modpack.json",
-  "generatedAt": "2026-08-30T23:50:58Z",
+  "generatedAt": "2026-08-31T01:19:14Z",
   "mods": [
     {
       "name": "ArmorClassIcon",
@@ -1157,13 +1157,58 @@
       "contentLength": 21539332
     },
     {
-      "name": "GRIDLOCK Crew Stack",
-      "version": "1.0.0",
-      "file": "GRIDLOCK-CREW-STACK-1.0.0.7z",
-      "sha256": "ea42e3800a7a27aae9bf8f19006bba61c8e64e8573a7b93b3bf281031c0a4912",
+      "name": "Beefibulator",
+      "version": "1.1.0",
+      "file": "Beefibulator-SPT-4.0.13-v1.1.0.7z",
+      "sha256": "89eb62b0f6f5a23667ac0aa80014bcddeed70b136ccbfb54e90e241b9891528b",
       "strip": null,
       "source": "github",
-      "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/GRIDLOCK-CREW-STACK-1.0.0.7z"
+      "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/Beefibulator-SPT-4.0.13-v1.1.0.7z"
+    },
+    {
+      "name": "BossMania",
+      "version": "1.0.1",
+      "file": "BossMania-SPT-4.0.13-v1.0.1.7z",
+      "sha256": "560e5223b340e43490ee7c52cc3c0c7810be96613843a838a3f897855cc21736",
+      "strip": null,
+      "source": "github",
+      "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/BossMania-SPT-4.0.13-v1.0.1.7z"
+    },
+    {
+      "name": "Bindable Fix",
+      "version": "1.0.0",
+      "file": "BindableFix-SPT-4.0.13.7z",
+      "sha256": "a66ef5d4c3742cf40f3251c3a823aa8bc8a5c581d0ce0e78abb847f42abc58cf",
+      "strip": null,
+      "source": "github",
+      "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/BindableFix-SPT-4.0.13.7z"
+    },
+    {
+      "name": "TheHive",
+      "version": "1.2.1",
+      "file": "TheHive-SPT-4.0.13-v1.2.1.7z",
+      "sha256": "6e3585cb512863b0b276908252d1eb689126fc09a22debf86114b71d7ca2e4d0",
+      "strip": null,
+      "source": "github",
+      "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/TheHive-SPT-4.0.13-v1.2.1.7z"
+    },
+    {
+      "name": "Unstick Fix",
+      "version": "1.3.0",
+      "file": "UnstickFix-SPT-4.0.13-v1.3.0.7z",
+      "sha256": "8961430a97790a60ae24405e6b0ce8876135465c00d4f4f8e2f6752ea23d1249",
+      "strip": null,
+      "source": "github",
+      "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/UnstickFix-SPT-4.0.13-v1.3.0.7z"
+    },
+    {
+      "name": "SpawnDirector",
+      "version": "2.1.0",
+      "file": "SpawnDirector-SPT-4.0.13-v2.1.0.7z",
+      "sha256": "a96b5d50471439c0c6d5791032e55b07133a711a66cbff0e1c2203a399faeb2d",
+      "strip": null,
+      "source": "github",
+      "downloadUrl": "https://raw.githubusercontent.com/ChristianMHolt/SPT4.0.13-ModRepo/main/SpawnDirector-SPT-4.0.13-v2.1.0.7z"
     }
   ],
   "removed": [
@@ -1177,13 +1222,6 @@
       "name": "Tactical Gear Component",
       "folders": [
         "SPT/user/mods/TGC-NG"
-      ]
-    },
-    {
-      "name": "Beefibulator",
-      "folders": [
-        "BepInEx/plugins/Beefibulator",
-        "SPT/user/mods/Beefibulator"
       ]
     },
     {
@@ -1223,23 +1261,18 @@
       ]
     },
     {
-      "name": "SpawnDirector",
+      "name": "GRIDLOCK Crew Stack",
       "folders": [
-        "SPT/user/mods/SpawnDirector"
-      ]
-    },
-    {
-      "name": "TheHive",
-      "folders": [
+        "BepInEx/plugins/Beefibulator",
+        "BepInEx/plugins/BossMania",
         "BepInEx/plugins/Hive",
+        "BepInEx/plugins/UnstickFix",
+        "BepInEx/patchers/BindableFixPatcher.dll",
         "BepInEx/patchers/HivePrepatch.dll",
-        "SPT/user/mods/HiveServer"
-      ]
-    },
-    {
-      "name": "Unstuck Fix",
-      "folders": [
-        "BepInEx/UnstickFix"
+        "SPT/user/mods/Beefibulator",
+        "SPT/user/mods/BossManiaServer",
+        "SPT/user/mods/HiveServer",
+        "SPT/user/mods/SpawnDirector"
       ]
     }
   ]
